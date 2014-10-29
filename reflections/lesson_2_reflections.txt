@@ -9,3 +9,5 @@ How can you use the staging area to make sure you have one commit per logical ch
 add files to the staging area as you make changes ... compare your working directory to your staging area with git diff
 ... compare your staging area to the most recent commit in your repository with git diff --staged ...
 commit your changes from your staging area to your repository
+
+here is change, yo
