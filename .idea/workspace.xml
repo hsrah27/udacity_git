@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a31098-4aff-4653-92f3-47fa175696db" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reflections/lesson_2_reflections.txt" afterPath="$PROJECT_DIR$/reflections/lesson_2_reflections.txt" />
-    </list>
+    <list default="true" id="73a31098-4aff-4653-92f3-47fa175696db" name="Default" comment="" />
     <ignored path="udacity_git.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
