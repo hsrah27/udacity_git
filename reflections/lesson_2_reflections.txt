@@ -4,3 +4,8 @@ git init turns a folder into a git repository which means that you can start tra
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is an area where you can stage files to be committed; this allows you to group some files, out of
 all of the changed files in the working directory, so that the grouped files can be committed together
+
+How can you use the staging area to make sure you have one commit per logical change?
+add files to the staging area as you make changes ... compare your working directory to your staging area with git diff
+... compare your staging area to the most recent commit in your repository with git diff --staged ...
+commit your changes from your staging area to your repository
