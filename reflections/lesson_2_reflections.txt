@@ -13,3 +13,6 @@ commit your changes from your staging area to your repository
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 If you want to experiment with a new feature, you can use a new branch. Or if you want to create a new version of a
 project, you can create a new branch
+
+How do the diagrams help you visualize the branch structure?
+they show me the sequence of commits; what's reachable; what's not
