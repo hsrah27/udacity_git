@@ -16,3 +16,5 @@ project, you can create a new branch
 
 How do the diagrams help you visualize the branch structure?
 they show me the sequence of commits; what's reachable; what's not
+
+here is change, yo
